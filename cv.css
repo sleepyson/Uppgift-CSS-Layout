@@ -31,7 +31,9 @@ h1 {
 	color: deeppink;
 }
 #omMig {
+	white-space: nowrap;
 	display: inline;
+	margin-right: -10px;
 }
 
 
