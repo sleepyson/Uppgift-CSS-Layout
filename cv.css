@@ -31,9 +31,7 @@ h1 {
 	color: deeppink;
 }
 #omMig {
-	margin-right: 50px;
-	width: 250px;
-	word-wrap: break-word;
+	display: inline;
 }
 
 
