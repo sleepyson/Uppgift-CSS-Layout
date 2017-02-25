@@ -33,6 +33,7 @@ h1 {
 #omMig {
 	margin-right: 50px;
 	white-space: nowrap;
+	overflow: hidden;
 }
 
 
