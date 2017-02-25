@@ -114,4 +114,10 @@ legend {
     float: none;
     display: block;
 	}
+	img#natur {
+	margin-left: auto;
+    margin-right: auto;
+    float: none;
+    display: block;
+	}
 }
