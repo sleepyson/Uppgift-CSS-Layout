@@ -56,6 +56,10 @@ p {
 }
 
 
+ul {
+	list-style-position: inside;
+}
+
 img#portratt {
 	float: right;
 	margin-left: 22px;
@@ -64,7 +68,7 @@ img#portratt {
 }
 img#natur {
 	float: left;
-	margin-right: 28px;
+	margin-right: 22px;
 	max-width: 100%;
         height: auto;
 }
