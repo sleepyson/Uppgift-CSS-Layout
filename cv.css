@@ -68,12 +68,14 @@ ul {
 img#portratt {
 	float: right;
 	margin-left: 22px;
+	margin-bottom: 5px;
 	max-width: 100%;
     height: auto;	
 }
 img#natur {
 	float: left;
 	margin-right: 22px;
+	margin-bottom: 5px;
 	max-width: 100%;
         height: auto;
 }
@@ -111,14 +113,12 @@ legend {
     img#portratt {
 	margin-left: auto;
     margin-right: auto;
-    margin-bottom: 5px;
     float: none;
     display: block;
 	}
 	img#natur {
 	margin-left: auto;
     margin-right: auto;
-    margin-bottom: 5px;
     float: none;
     display: block;
 	}
